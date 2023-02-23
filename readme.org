@@ -1,0 +1,9 @@
+* intro
+
+a euphoria.io bot backed by chatGPT. works while they let you use the code model for free
+
+
+* features / TODO / DOING
+- [ ] understands threads
+- [-] bring under version management
+- [ ] autonomous activity (inactivity timer based)
