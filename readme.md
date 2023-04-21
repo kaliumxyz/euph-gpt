@@ -1,4 +1,4 @@
-* intro
+# intro
 
 a euphoria.io bot backed by chatGPT. No longer works as they scrapped the backend it relied on. Fix inbound whenever
 
@@ -12,8 +12,8 @@ you need a `config.json` file. try this template
 ```
 
 
-* features / TODO / DOING
+# features / TODO / DOING
 - [ ] understands threads
 - [X] bring under version management
 - [ ] autonomous activity (inactivity timer based)
-- [-] commands
+- [ ] commands
